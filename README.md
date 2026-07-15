@@ -6,7 +6,7 @@
 
 Building scalable enterprise applications, cloud-native solutions, and modern web applications.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=prafullmogdul1009&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/prafullmogdul1009)
 
 </div>
 
